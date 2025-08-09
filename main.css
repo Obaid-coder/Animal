@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(249, 235, 218);
+}
+.first{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.second{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.third{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.fourth{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.fifth{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.sixth{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.seventh{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom:10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.eigth{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    margin-bottom: 10px;
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.ninth{
+    width:250px;
+    padding: 20px;
+    /* height: 200px; */
+    background-color: rgb(236, 255, 249);
+    border: 2px solid darkmagenta;
+    border-radius: 20px;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+h1{
+    text-align:center;
+    margin-top:25px;
+    font-style:italic;
+}
+h3{
+    text-align:center;
+    padding: 10px;
+    position: relative;
+    bottom:30px;
+    font-style: italic ;
+}
+a{
+    text-decoration:none;
+}
+img{
+    width:50%;
+    position: relative;
+    left: 60px;
+    bottom:50px;
+    border-radius: 20px;
+}
